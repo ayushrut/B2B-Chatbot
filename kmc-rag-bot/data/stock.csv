@@ -1,0 +1,20 @@
+product_name,category,part_no,unit_price_inr,gst_percent,hsn_code,qty_available,warranty,key_specs,restock_days_internal
+"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",Ball bearings,6205-2RS,165,18,8482,340,12 months,"Dynamic load 14.8 kN; max 9,500 rpm; sealed, greased for life",7
+"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",Ball bearings,6205-2RS-C3,210,18,8482,12,12 months,Dynamic load 14.8 kN; C3 clearance for high temperature; sealed,10
+"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",Ball bearings,6204-ZZ,140,18,8482,500,12 months,"Dynamic load 13.5 kN; max 17,000 rpm; metal shields",7
+"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",Ball bearings,6305-2RS,260,18,8482,85,12 months,"Dynamic load 23.4 kN; max 8,500 rpm; sealed",7
+"Pneumatic cylinder, 63 mm bore, 200 mm stroke",Pneumatic cylinders,PC15-63-200,8450,18,8412,4,12 months,"ISO 15552; 1 to 10 bar; 1,870 N extend force at 6 bar; G3/8 ports",7
+"Pneumatic cylinder, 50 mm bore, 100 mm stroke",Pneumatic cylinders,PC15-50-100,6100,18,8412,9,12 months,"ISO 15552; 1 to 10 bar; 1,178 N extend force at 6 bar; G1/4 ports",7
+"Cylinder seal kit, standard rubber, for 63 mm bore",Pneumatic cylinders,PC15-SK-63,1250,18,4016,15,Not covered (wear part),NBR seals; fits 63 mm bore cylinders; -20 to +80 °C,5
+"Cylinder seal kit, standard rubber, for 50 mm bore",Pneumatic cylinders,PC15-SK-50,980,18,4016,0,Not covered (wear part),NBR seals; fits 50 mm bore cylinders; -20 to +80 °C,5
+"Cylinder seal kit, high-temperature Viton, for 50 mm bore",Pneumatic cylinders,PC15-SK-50-V,1640,18,4016,6,Not covered (wear part),Viton (FKM) seals; fits 50 mm bore; -10 to +150 °C,5
+"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",Solenoid valves,SV52-S-24D,2850,18,8481,26,12 months,"5/2-way, spring return; 1.5 to 8 bar; 1,100 Nl/min; IP65",7
+"Spare solenoid valve coil, 24 V DC",Solenoid valves,SV-COIL-24D,690,18,8505,40,12 months,"24 V DC, 3.0 W; IP65; fits SV52 valves only",5
+"Filter-regulator, 1/2 inch ports, 40 micron filter",Filter-regulators,FR40-G12-40,3450,18,8421,14,12 months,"0.5 to 10 bar regulating; max inlet 16 bar; 2,800 Nl/min; semi-automatic drain",7
+"Filter-regulator, 1/2 inch ports, 5 micron filter",Filter-regulators,FR40-G12-05,3720,18,8421,0,12 months,0.5 to 10 bar regulating; max inlet 16 bar; 5 micron fine filtration,10
+"Spare filter element, 40 micron, for 1/2 inch filter-regulator",Filter-regulators,FR40-FE-40,420,18,8421,30,Not covered (wear part),40 micron; fits FR40 filter-regulators,5
+"Gear motor 0.75 kW, 72 rpm output, foot mounted",Gear motors,GM-071-0.75-i20-M1,24800,18,8501,0,12 months,0.75 kW IE3; 72 rpm; 95 Nm output torque; 415 V,15
+"Gear motor 1.5 kW, 72 rpm output, foot mounted",Gear motors,GM-090-1.5-i20-M1,36500,18,8501,2,12 months,1.5 kW IE3; 72 rpm; 189 Nm output torque; 415 V,15
+"Jaw coupling, size 95, for shafts up to 28 mm",Couplings,JC-095,1150,18,8483,18,12 months,"22 Nm nominal; bore up to 28 mm; max 9,000 rpm",7
+Spare rubber spider for jaw coupling size 95,Couplings,JC-SP-095-NBR,180,18,4016,60,Not covered (wear part),NBR 80 Shore A; fits size 95 jaw couplings,5
+"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",Hydraulic adapters,HF-BSP-G12-JIC08,145,18,7307,220,12 months,"Steel, zinc-nickel; max 315 bar; assembly torque 100 Nm",7

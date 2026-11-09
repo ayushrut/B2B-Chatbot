@@ -1,0 +1,101 @@
+order_no,customer_id,po_number,order_date,delivery_city,payment_terms,status,order_value_inr,gst_inr,total_inr,invoice_no,payment_status,dispatch_date,transporter,lr_no,expected_delivery,delivered_on
+SO-23941,C04,PO-044510,2026-05-06,Hyderabad,45 days credit,Delivered,33580,6044,39624,INV/26-27/01181,Overdue since 21 Jun 2026,2026-05-07,Southern Roadways Cargo,7604201,,2026-05-11
+SO-23949,C10,PO-106804,2026-05-14,Madurai,100% advance,Delivered,21600,3888,25488,INV/26-27/01182,Paid (advance),2026-05-16,SwiftLine Transport,7905798,,2026-05-19
+SO-23951,C05,PO-057912,2026-05-16,Kochi,30 days credit,Delivered,72281,13011,85292,INV/26-27/01183,Paid,2026-05-18,Coastal Express Logistics,7968114,,2026-05-21
+SO-23952,C07,PO-079856,2026-05-16,Bengaluru,45 days credit,Delivered,16215,2919,19134,INV/26-27/01184,Overdue since 30 Jun 2026,2026-05-16,SwiftLine Transport,7889921,,2026-05-19
+SO-23953,C04,PO-047570,2026-05-17,Hyderabad,45 days credit,Delivered,14190,2554,16744,INV/26-27/01185,Paid,2026-05-17,Southern Roadways Cargo,7409386,,2026-05-22
+SO-23958,C03,PO-038973,2026-05-22,Chennai,100% advance,Delivered,90750,16335,107085,INV/26-27/01186,Paid (advance),2026-05-23,KMC van,,,2026-05-25
+SO-23961,C04,PO-041821,2026-05-25,Hyderabad,45 days credit,Delivered,24320,4378,28698,INV/26-27/01187,Overdue since 11 Jul 2026,2026-05-27,Coastal Express Logistics,7165080,,2026-05-29
+SO-23964,C08,PO-084853,2026-05-27,Rajahmundry,100% advance,Delivered,2900,522,3422,INV/26-27/01188,Paid (advance),2026-05-29,SwiftLine Transport,7933533,,2026-06-02
+SO-23968,C06,PO-066147,2026-05-31,Tiruppur,30 days credit,Delivered,76400,13752,90152,INV/26-27/01189,Paid,2026-06-01,Southern Roadways Cargo,7676856,,2026-06-05
+SO-23969,C06,PO-062638,2026-05-31,Tiruppur,30 days credit,Delivered,8740,1573,10313,INV/26-27/01190,Paid,2026-05-31,Coastal Express Logistics,7138890,,2026-06-05
+SO-23972,C05,PO-055956,2026-06-04,Kochi,30 days credit,Delivered,45963,8273,54236,INV/26-27/01191,Paid,2026-06-04,Southern Roadways Cargo,7977017,,2026-06-08
+SO-23975,C01,PO-016617,2026-06-06,Coimbatore,30 days credit,Delivered,94976,17096,112072,INV/26-27/01192,Overdue since 08 Jul 2026,2026-06-08,Southern Roadways Cargo,7529959,,2026-06-12
+SO-23977,C07,PO-073143,2026-06-08,Bengaluru,45 days credit,Cancelled,61769,11118,72887,,Not invoiced,,,,,
+SO-23978,C09,PO-099938,2026-06-09,Pune,30 days credit,Delivered,81546,14678,96224,INV/26-27/01193,Paid,2026-06-09,Coastal Express Logistics,7155287,,2026-06-11
+SO-23979,C01,PO-015088,2026-06-10,Coimbatore,30 days credit,Delivered,61236,11022,72258,INV/26-27/01194,Paid,2026-06-10,Southern Roadways Cargo,7917202,,2026-06-12
+SO-23980,C09,PO-096442,2026-06-11,Pune,30 days credit,Cancelled,12260,2207,14467,,Not invoiced,,,,,
+SO-23981,C02,PO-028711,2026-06-12,Erode,100% advance,Delivered,39600,7128,46728,INV/26-27/01195,Paid (advance),2026-06-13,Southern Roadways Cargo,7963066,,2026-06-16
+SO-23982,C07,PO-076378,2026-06-12,Bengaluru,45 days credit,Delivered,37989,6838,44827,INV/26-27/01196,Overdue since 28 Jul 2026,2026-06-13,Coastal Express Logistics,7292683,,2026-06-16
+SO-23983,C04,PO-045279,2026-06-13,Hyderabad,45 days credit,Delivered,77740,13993,91733,INV/26-27/01197,Overdue since 30 Jul 2026,2026-06-15,SwiftLine Transport,7040115,,2026-06-17
+SO-23984,C09,PO-098149,2026-06-13,Pune,30 days credit,Delivered,8340,1501,9841,INV/26-27/01198,Paid,2026-06-13,Coastal Express Logistics,7267095,,2026-06-18
+SO-23985,C08,PO-089821,2026-06-14,Rajahmundry,100% advance,Delivered,8700,1566,10266,INV/26-27/01199,Paid (advance),2026-06-15,Coastal Express Logistics,7073372,,2026-06-17
+SO-23987,C10,PO-105844,2026-06-17,Madurai,100% advance,Delivered,91730,16511,108241,INV/26-27/01200,Paid (advance),2026-06-18,Southern Roadways Cargo,7697229,,2026-06-24
+SO-23990,C08,PO-081006,2026-06-20,Rajahmundry,100% advance,Delivered,70050,12609,82659,INV/26-27/01201,Paid (advance),2026-06-22,Southern Roadways Cargo,7450770,,2026-06-26
+SO-24001,C07,PO-073780,2026-06-30,Bengaluru,45 days credit,Delivered,68642,12356,80998,INV/26-27/01202,Paid,2026-06-30,Coastal Express Logistics,7649342,,2026-07-03
+SO-24004,C04,PO-043414,2026-07-03,Hyderabad,45 days credit,Delivered,26206,4717,30923,INV/26-27/01203,Overdue since 17 Aug 2026,2026-07-03,SwiftLine Transport,7640967,,2026-07-08
+SO-24005,C07,PO-079099,2026-07-03,Bengaluru,45 days credit,Delivered,12972,2335,15307,INV/26-27/01204,Paid,2026-07-06,Coastal Express Logistics,7005814,,2026-07-09
+SO-24013,C06,PO-061822,2026-07-11,Tiruppur,30 days credit,Delivered,17290,3112,20402,INV/26-27/01205,Paid,2026-07-13,Coastal Express Logistics,7139816,,2026-07-16
+SO-24014,C09,PO-099270,2026-07-11,Pune,30 days credit,Delivered,40004,7201,47205,INV/26-27/01206,Paid,2026-07-14,Coastal Express Logistics,7940790,,2026-07-20
+SO-24015,C01,PO-015543,2026-07-12,Coimbatore,30 days credit,Delivered,13112,2360,15472,INV/26-27/01207,Paid,2026-07-14,SwiftLine Transport,7081247,,2026-07-18
+SO-24020,C05,PO-053503,2026-07-17,Kochi,30 days credit,Delivered,46061,8291,54352,INV/26-27/01208,Paid,2026-07-18,SwiftLine Transport,7568969,,2026-07-22
+SO-24021,C10,PO-101320,2026-07-17,Madurai,100% advance,Delivered,64670,11641,76311,INV/26-27/01209,Paid (advance),2026-07-20,Coastal Express Logistics,7988536,,2026-07-25
+SO-24024,C07,PO-078140,2026-07-21,Bengaluru,45 days credit,Delivered,35461,6383,41844,INV/26-27/01210,Paid,2026-07-23,Southern Roadways Cargo,7712131,,2026-07-27
+SO-24030,C04,PO-041444,2026-07-26,Hyderabad,45 days credit,Delivered,21002,3780,24782,INV/26-27/01211,Paid,2026-07-26,Southern Roadways Cargo,7484125,,2026-07-28
+SO-24031,C03,PO-034467,2026-07-27,Chennai,100% advance,Delivered,13200,2376,15576,INV/26-27/01212,Paid (advance),2026-07-29,KMC van,,,2026-07-30
+SO-24036,C02,PO-029837,2026-08-01,Erode,100% advance,Cancelled,56500,10170,66670,,Not invoiced,,,,,
+SO-24037,C02,PO-021508,2026-08-02,Erode,100% advance,Delivered,36500,6570,43070,INV/26-27/01213,Paid (advance),2026-08-03,Coastal Express Logistics,7021369,,2026-08-05
+SO-24044,C05,PO-057043,2026-08-08,Kochi,30 days credit,Delivered,44512,8012,52524,INV/26-27/01214,Overdue since 09 Sep 2026,2026-08-10,Southern Roadways Cargo,7753252,,2026-08-13
+SO-24046,C08,PO-086111,2026-08-10,Rajahmundry,100% advance,Cancelled,31350,5643,36993,,Not invoiced,,,,,
+SO-24048,C08,PO-085941,2026-08-12,Rajahmundry,100% advance,Delivered,65560,11801,77361,INV/26-27/01215,Paid (advance),2026-08-12,SwiftLine Transport,7593423,,2026-08-15
+SO-24049,C07,PO-079289,2026-08-13,Bengaluru,45 days credit,Delivered,50901,9162,60063,INV/26-27/01216,Paid,2026-08-14,Coastal Express Logistics,7514013,,2026-08-20
+SO-24056,C04,PO-043885,2026-08-19,Hyderabad,45 days credit,Delivered,7406,1333,8739,INV/26-27/01217,Overdue since 04 Oct 2026,2026-08-20,Coastal Express Logistics,7812270,,2026-08-26
+SO-24058,C06,PO-062419,2026-08-21,Tiruppur,30 days credit,Delivered,153425,27616,181041,INV/26-27/01218,Paid,2026-08-22,Southern Roadways Cargo,7487282,,2026-08-27
+SO-24063,C10,PO-105232,2026-08-25,Madurai,100% advance,Delivered,46770,8419,55189,INV/26-27/01219,Paid (advance),2026-08-26,Southern Roadways Cargo,7625113,,2026-08-29
+SO-24064,C01,PO-014937,2026-08-26,Coimbatore,30 days credit,Delivered,58085,10455,68540,INV/26-27/01220,Paid,2026-08-28,Southern Roadways Cargo,7831450,,2026-09-03
+SO-24070,C04,PO-046016,2026-09-01,Hyderabad,45 days credit,Delivered,15440,2779,18219,INV/26-27/01221,Paid,2026-09-02,Southern Roadways Cargo,7446173,,2026-09-05
+SO-24071,C06,PO-066169,2026-09-01,Tiruppur,30 days credit,Delivered,144400,25992,170392,INV/26-27/01222,Overdue since 01 Oct 2026,2026-09-01,SwiftLine Transport,7723688,,2026-09-04
+SO-24072,C02,PO-029595,2026-09-02,Erode,100% advance,Delivered,15600,2808,18408,INV/26-27/01223,Paid (advance),2026-09-03,Southern Roadways Cargo,7873074,,2026-09-09
+SO-24073,C05,PO-059751,2026-09-03,Kochi,30 days credit,Delivered,14319,2577,16896,INV/26-27/01224,Overdue since 04 Oct 2026,2026-09-04,SwiftLine Transport,7580238,,2026-09-09
+SO-24076,C09,PO-096582,2026-09-06,Pune,30 days credit,Delivered,7242,1304,8546,INV/26-27/01225,Paid,2026-09-07,Southern Roadways Cargo,7903582,,2026-09-11
+SO-24082,C07,PO-071878,2026-09-12,Bengaluru,45 days credit,Delivered,49658,8938,58596,INV/26-27/01226,Paid,2026-09-14,Coastal Express Logistics,7318594,,2026-09-16
+SO-24087,C04,PO-044697,2026-09-16,Hyderabad,45 days credit,Delivered,9560,1721,11281,INV/26-27/01227,Overdue since 02 Nov 2026,2026-09-18,Coastal Express Logistics,7464226,,2026-09-24
+SO-24088,C08,PO-082625,2026-09-16,Rajahmundry,100% advance,Delivered,21050,3789,24839,INV/26-27/01228,Paid (advance),2026-09-17,Coastal Express Logistics,7277501,,2026-09-19
+SO-24089,C02,PO-028699,2026-09-17,Erode,100% advance,Delivered,73320,13198,86518,INV/26-27/01229,Paid (advance),2026-09-18,Southern Roadways Cargo,7302099,,2026-09-24
+SO-24090,C08,PO-084683,2026-09-18,Rajahmundry,100% advance,Delivered,50170,9031,59201,INV/26-27/01230,Paid (advance),2026-09-19,Southern Roadways Cargo,7866785,,2026-09-23
+SO-24093,C06,PO-065728,2026-09-22,Tiruppur,30 days credit,Delivered,3140,565,3705,INV/26-27/01231,Paid,2026-09-24,Southern Roadways Cargo,7733723,,2026-09-28
+SO-24097,C09,PO-098078,2026-09-25,Pune,30 days credit,Delivered,99766,17958,117724,INV/26-27/01232,Paid,2026-09-26,SwiftLine Transport,7240044,,2026-10-02
+SO-24100,C07,PO-078141,2026-09-28,Bengaluru,45 days credit,Delivered,60663,10919,71582,INV/26-27/01233,Due on 14 Nov 2026,2026-09-30,Southern Roadways Cargo,7492841,,2026-10-06
+SO-24101,C06,PO-069117,2026-09-29,Tiruppur,30 days credit,Delivered,46170,8311,54481,INV/26-27/01234,Paid,2026-09-30,SwiftLine Transport,7797441,,2026-10-02
+SO-24102,C07,PO-071018,2026-09-30,Bengaluru,45 days credit,Delivered,91791,16522,108313,INV/26-27/01235,Due on 16 Nov 2026,2026-10-02,Southern Roadways Cargo,7196694,,2026-10-05
+SO-24104,C03,PO-033146,2026-10-02,Chennai,100% advance,Delivered,64860,11675,76535,INV/26-27/01236,Paid (advance),2026-10-03,KMC van,,,2026-10-05
+SO-24107,C06,PO-067684,2026-10-04,Tiruppur,30 days credit,Cancelled,127840,23011,150851,,Not invoiced,,,,,
+SO-24110,C03,PO-032924,2026-10-07,Chennai,100% advance,Delivered,10400,1872,12272,INV/26-27/01237,Paid (advance),2026-10-08,KMC van,,,2026-10-09
+SO-24111,C09,PO-099327,2026-10-07,Pune,30 days credit,Delivered,129714,23349,153063,INV/26-27/01238,Due on 07 Nov 2026,2026-10-08,Southern Roadways Cargo,7289666,,2026-10-12
+SO-24113,C03,PO-039022,2026-10-10,Chennai,100% advance,Delivered,48350,8703,57053,INV/26-27/01239,Paid (advance),2026-10-12,KMC van,,,2026-10-13
+SO-24117,C01,PO-018841,2026-10-30,Coimbatore,30 days credit,"Dispatched, in transit",26888,4840,31728,INV/26-27/01301,Due on 02 Dec 2026,2026-11-03,SwiftLine Transport,7781452,2026-11-07,
+SO-24118,C05,PO-054090,2026-10-13,Kochi,30 days credit,Delivered,60249,10845,71094,INV/26-27/01240,Due on 13 Nov 2026,2026-10-14,Southern Roadways Cargo,7244907,,2026-10-20
+SO-24120,C02,PO-023492,2026-10-16,Erode,100% advance,Delivered,51200,9216,60416,INV/26-27/01241,Paid (advance),2026-10-19,Southern Roadways Cargo,7132378,,2026-10-24
+SO-24125,C01,PO-017717,2026-10-21,Coimbatore,30 days credit,Partly dispatched,72079,12974,85053,INV/26-27/01242,Due on 21 Nov 2026,2026-10-22,SwiftLine Transport,7819488,2026-11-19,
+SO-24128,C08,PO-087226,2026-10-23,Rajahmundry,100% advance,Delivered,18080,3254,21334,INV/26-27/01243,Paid (advance),2026-10-24,Coastal Express Logistics,7930546,,2026-10-29
+SO-24130,C02,PO-023302,2026-10-24,Erode,100% advance,Partly dispatched,29400,5292,34692,INV/26-27/01288,Paid (advance),2026-10-29,SwiftLine Transport,7779910,2026-11-18,
+SO-24131,C07,PO-075708,2026-10-25,Bengaluru,45 days credit,Delivered,33371,6007,39378,INV/26-27/01244,Due on 10 Dec 2026,2026-10-26,Coastal Express Logistics,7455052,,2026-10-29
+SO-24132,C02,PO-021474,2026-10-26,Erode,100% advance,Delivered,25200,4536,29736,INV/26-27/01245,Paid (advance),2026-10-26,Coastal Express Logistics,7058845,,2026-10-29
+SO-24133,C01,PO-013950,2026-10-28,Coimbatore,30 days credit,Partly dispatched,43014,7743,50757,INV/26-27/01246,Due on 28 Nov 2026,2026-10-29,Coastal Express Logistics,7639098,2026-11-17,
+SO-24134,C10,PO-105161,2026-10-28,Madurai,100% advance,Partly dispatched,26740,4813,31553,INV/26-27/01247,Paid (advance),2026-10-30,SwiftLine Transport,7009853,2026-11-17,
+SO-24135,C01,PO-015901,2026-10-29,Coimbatore,30 days credit,Delivered,14440,2599,17039,INV/26-27/01248,Due on 30 Nov 2026,2026-10-31,Southern Roadways Cargo,7479027,,2026-11-06
+SO-24136,C01,PO-015847,2026-10-30,Coimbatore,30 days credit,Partly dispatched,19107,3439,22546,INV/26-27/01249,Due on 30 Nov 2026,2026-10-31,Southern Roadways Cargo,7870357,2026-11-17,
+SO-24137,C06,PO-064770,2026-10-30,Tiruppur,30 days credit,Partly dispatched,144880,26078,170958,INV/26-27/01250,Due on 30 Nov 2026,2026-10-31,Southern Roadways Cargo,7199367,2026-11-19,
+SO-24138,C09,PO-093153,2026-10-30,Pune,30 days credit,Delivered,44412,7994,52406,INV/26-27/01251,Due on 29 Nov 2026,2026-10-30,Coastal Express Logistics,7342589,,2026-11-02
+SO-24139,C10,PO-108894,2026-10-30,Madurai,100% advance,Delivered,101900,18342,120242,INV/26-27/01252,Paid (advance),2026-10-31,SwiftLine Transport,7355168,,2026-11-05
+SO-24140,C05,PO-057511,2026-10-31,Kochi,30 days credit,Delivered,3346,602,3948,INV/26-27/01253,Due on 02 Dec 2026,2026-11-02,SwiftLine Transport,7413741,,2026-11-05
+SO-24141,C09,PO-095295,2026-10-31,Pune,30 days credit,Delivered,73008,13141,86149,INV/26-27/01254,Due on 03 Dec 2026,2026-11-03,Southern Roadways Cargo,7985967,,2026-11-05
+SO-24142,C03,PO-037120,2026-11-05,Chennai,100% advance,"Confirmed, awaiting advance payment",8250,1485,9735,,Advance pending (proforma PI-8812),,,,,
+SO-24143,C01,PO-012035,2026-11-01,Coimbatore,30 days credit,Delivered,48222,8680,56902,INV/26-27/01255,Due on 03 Dec 2026,2026-11-03,Coastal Express Logistics,7316869,,2026-11-07
+SO-24144,C02,PO-023222,2026-11-01,Erode,100% advance,Delivered,47450,8541,55991,INV/26-27/01256,Paid (advance),2026-11-03,SwiftLine Transport,7703055,,2026-11-05
+SO-24145,C03,PO-037686,2026-11-01,Chennai,100% advance,Partly dispatched,119850,21573,141423,INV/26-27/01257,Paid (advance),2026-11-02,KMC van,,2026-11-14,
+SO-24146,C02,PO-027018,2026-11-02,Erode,100% advance,Partly dispatched,32820,5908,38728,INV/26-27/01258,Paid (advance),2026-11-03,SwiftLine Transport,7289282,2026-11-18,
+SO-24147,C04,PO-041349,2026-11-02,Hyderabad,45 days credit,Delivered,25090,4516,29606,INV/26-27/01259,Due on 17 Dec 2026,2026-11-02,Coastal Express Logistics,7255400,,2026-11-04
+SO-24148,C08,PO-084538,2026-11-02,Rajahmundry,100% advance,Delivered,5800,1044,6844,INV/26-27/01260,Paid (advance),2026-11-03,Coastal Express Logistics,7154721,,2026-11-05
+SO-24149,C10,PO-101422,2026-11-02,Madurai,100% advance,Partly dispatched,69010,12422,81432,INV/26-27/01261,Paid (advance),2026-11-03,SwiftLine Transport,7828358,2026-11-17,
+SO-24150,C03,PO-031858,2026-11-03,Chennai,100% advance,Delivered,6100,1098,7198,INV/26-27/01262,Paid (advance),2026-11-04,KMC van,,,2026-11-05
+SO-24151,C04,PO-041710,2026-11-03,Hyderabad,45 days credit,Delivered,107450,19341,126791,INV/26-27/01263,Due on 19 Dec 2026,2026-11-04,Southern Roadways Cargo,7032663,,2026-11-06
+SO-24152,C07,PO-078267,2026-11-03,Bengaluru,45 days credit,"Dispatched, in transit",12972,2335,15307,INV/26-27/01264,Due on 18 Dec 2026,2026-11-03,Coastal Express Logistics,7337758,2026-11-09,
+SO-24153,C03,PO-036327,2026-11-04,Chennai,100% advance,Delivered,68460,12323,80783,INV/26-27/01265,Paid (advance),2026-11-06,KMC van,,,2026-11-07
+SO-24154,C09,PO-094743,2026-11-04,Pune,30 days credit,"Dispatched, in transit",44808,8065,52873,INV/26-27/01266,Due on 06 Dec 2026,2026-11-06,Southern Roadways Cargo,7475528,2026-11-10,
+SO-24155,C10,PO-103500,2026-11-04,Madurai,100% advance,Partly dispatched,50980,9176,60156,INV/26-27/01267,Paid (advance),2026-11-06,Coastal Express Logistics,7872176,2026-11-18,
+SO-24156,C06,PO-063131,2026-11-05,Tiruppur,30 days credit,Ready for dispatch,18840,3391,22231,,Not invoiced yet,,,,2026-11-11,
+SO-24157,C01,PO-015712,2026-11-06,Coimbatore,30 days credit,"Confirmed, being picked",65396,11771,77167,,Not invoiced yet,,,,,
+SO-24158,C01,PO-012773,2026-11-06,Coimbatore,30 days credit,"Confirmed, being picked",103084,18555,121639,,Not invoiced yet,,,,,
+SO-24159,C10,PO-101430,2026-11-06,Madurai,100% advance,"Confirmed, awaiting advance payment",32220,5800,38020,,Advance pending,,,,,
+SO-24160,C05,PO-053347,2026-11-07,Kochi,30 days credit,"Confirmed, being picked",71434,12858,84292,,Not invoiced yet,,,,,

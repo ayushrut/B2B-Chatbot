@@ -1,0 +1,11 @@
+customer_id,customer_name,city,gstin,gstin_last4,payment_terms,contact_name_internal,contact_phone_internal,discount_pct_internal
+C01,Sri Lakshmi Packaging Machines,Coimbatore,33ALCKA10001ZK5,1ZK5,30 days credit,R. Venkatesh,+91 9840011223,5
+C02,Anand Agro Equipments,Erode,33BMFMD17312PQ8,2PQ8,100% advance,S. Anand,+91 9741245790,0
+C03,Precision Pack Automation,Chennai,33CNHRG24629AB3,9AB3,100% advance,M. Fathima,+91 9642480357,0
+C04,Deccan Conveyor Systems,Hyderabad,36DPPSK31934CZ1,4CZ1,45 days credit,K. Srinivas Rao,+91 9843714924,8
+C05,Malabar Food Processing Machinery,Kochi,32EQTVC39247MZ3,7MZ3,30 days credit,A. Thomas,+91 9744949491,3
+C06,Kaveri Textile Engineering,Tiruppur,33FRCKF46553TZ8,3TZ8,30 days credit,P. Karthikeyan,+91 9646184058,5
+C07,Bangalore Robotics and Fixtures,Bengaluru,29GSFMJ53866RZ2,6RZ2,45 days credit,N. Shetty,+91 9847418625,6
+C08,Godavari Process Equipment,Rajahmundry,37HTHRB61175GZ9,5GZ9,100% advance,V. Prasad,+91 9748653192,0
+C09,Pune Precision Tooling,Pune,27JUPSE68488PZ4,8PZ4,30 days credit,S. Kulkarni,+91 9649887759,4
+C10,Madurai Plastic Moulders,Madurai,33KVTVH75792MZ6,2MZ6,100% advance,J. Pandian,+91 9851122326,0

@@ -1,0 +1,218 @@
+order_no,line_no,part_no,product_name,qty_ordered,qty_dispatched,unit_price_inr,line_value_inr,line_status
+SO-23941,1,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",1,1,33580,33580,Delivered
+SO-23949,1,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",15,15,980,14700,Delivered
+SO-23949,2,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",2,2,3450,6900,Delivered
+SO-23951,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",6,6,8196,49176,Delivered
+SO-23951,2,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",2,2,5917,11834,Delivered
+SO-23951,3,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",9,9,407,3663,Delivered
+SO-23951,4,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",8,8,951,7608,Delivered
+SO-23952,1,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",5,5,3243,16215,Delivered
+SO-23953,1,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",110,110,129,14190,Delivered
+SO-23958,1,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",15,15,980,14700,Delivered
+SO-23958,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",9,9,8450,76050,Delivered
+SO-23961,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",160,160,152,24320,Delivered
+SO-23964,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",20,20,145,2900,Delivered
+SO-23968,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",170,170,200,34000,Delivered
+SO-23968,2,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",1,1,23560,23560,Delivered
+SO-23968,3,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",120,120,157,18840,Delivered
+SO-23969,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",30,30,247,7410,Delivered
+SO-23969,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",10,10,133,1330,Delivered
+SO-23972,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",6,6,5917,35502,Delivered
+SO-23972,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",11,11,951,10461,Delivered
+SO-23975,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",2,2,5795,11590,Delivered
+SO-23975,2,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",25,25,1188,29700,Delivered
+SO-23975,3,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",19,19,1558,29602,Delivered
+SO-23975,4,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",3,3,8028,24084,Delivered
+SO-23977,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",4,0,1542,6168,Cancelled
+SO-23977,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",7,0,7943,55601,Cancelled
+SO-23978,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",7,7,8112,56784,Delivered
+SO-23978,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",150,150,134,20100,Delivered
+SO-23978,3,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",2,2,941,1882,Delivered
+SO-23978,4,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",20,20,139,2780,Delivered
+SO-23979,1,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",11,11,1188,13068,Delivered
+SO-23979,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",6,6,8028,48168,Delivered
+SO-23980,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",40,0,139,5560,Cancelled
+SO-23980,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",50,0,134,6700,Cancelled
+SO-23981,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",50,50,260,13000,Delivered
+SO-23981,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",190,190,140,26600,Delivered
+SO-23982,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",9,9,2679,24111,Delivered
+SO-23982,2,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",9,9,1542,13878,Delivered
+SO-23983,1,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",10,10,1058,10580,Delivered
+SO-23983,2,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",2,2,33580,67160,Delivered
+SO-23984,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",60,60,139,8340,Delivered
+SO-23985,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",60,60,145,8700,Delivered
+SO-23987,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",11,11,2850,31350,Delivered
+SO-23987,2,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",18,18,420,7560,Delivered
+SO-23987,3,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",5,5,6100,30500,Delivered
+SO-23987,4,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",6,6,3720,22320,Delivered
+SO-23990,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",90,90,145,13050,Delivered
+SO-23990,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",20,20,2850,57000,Delivered
+SO-24001,1,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",16,16,395,6320,Delivered
+SO-24001,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",16,16,2679,42864,Delivered
+SO-24001,3,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",6,6,3243,19458,Delivered
+SO-24004,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",70,70,193,13510,Delivered
+SO-24004,2,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",12,12,1058,12696,Delivered
+SO-24005,1,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",4,4,3243,12972,Delivered
+SO-24013,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",70,70,247,17290,Delivered
+SO-24014,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",21,21,1574,33054,Delivered
+SO-24014,2,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",50,50,139,6950,Delivered
+SO-24015,1,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",4,4,3278,13112,Delivered
+SO-24020,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",12,12,1591,19092,Delivered
+SO-24020,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",19,19,951,18069,Delivered
+SO-24020,3,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",4,4,407,1628,Delivered
+SO-24020,4,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",6,6,1212,7272,Delivered
+SO-24021,1,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",8,8,690,5520,Delivered
+SO-24021,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",7,7,8450,59150,Delivered
+SO-24024,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",15,15,1542,23130,Delivered
+SO-24024,2,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",19,19,649,12331,Delivered
+SO-24030,1,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",130,130,129,16770,Delivered
+SO-24030,2,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",4,4,1058,4232,Delivered
+SO-24031,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",80,80,165,13200,Delivered
+SO-24036,1,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",2,0,24800,49600,Cancelled
+SO-24036,2,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",6,0,1150,6900,Cancelled
+SO-24037,1,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",1,1,36500,36500,Delivered
+SO-24044,1,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",17,17,1212,20604,Delivered
+SO-24044,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",23,23,951,21873,Delivered
+SO-24044,3,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",5,5,407,2035,Delivered
+SO-24046,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",11,0,2850,31350,Cancelled
+SO-24048,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",40,40,145,5800,Delivered
+SO-24048,2,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",4,4,690,2760,Delivered
+SO-24048,3,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",20,20,2850,57000,Delivered
+SO-24049,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",19,19,2679,50901,Delivered
+SO-24056,1,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",7,7,1058,7406,Delivered
+SO-24058,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",200,200,247,49400,Delivered
+SO-24058,2,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",3,3,34675,104025,Delivered
+SO-24063,1,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",2,2,420,840,Delivered
+SO-24063,2,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",17,17,690,11730,Delivered
+SO-24063,3,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",12,12,2850,34200,Delivered
+SO-24064,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",8,8,1558,12464,Delivered
+SO-24064,2,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",1,1,3534,3534,Delivered
+SO-24064,3,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",4,4,8028,32112,Delivered
+SO-24064,4,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",25,25,399,9975,Delivered
+SO-24070,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",80,80,193,15440,Delivered
+SO-24071,1,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",2,2,23560,47120,Delivered
+SO-24071,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",80,80,133,10640,Delivered
+SO-24071,3,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",2,2,34675,69350,Delivered
+SO-24071,4,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",70,70,247,17290,Delivered
+SO-24072,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",60,60,260,15600,Delivered
+SO-24073,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",9,9,1591,14319,Delivered
+SO-24076,1,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",40,40,134,5360,Delivered
+SO-24076,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",2,2,941,1882,Delivered
+SO-24082,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",7,7,5734,40138,Delivered
+SO-24082,2,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",70,70,136,9520,Delivered
+SO-24087,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",40,40,239,9560,Delivered
+SO-24088,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",50,50,145,7250,Delivered
+SO-24088,2,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",20,20,690,13800,Delivered
+SO-24089,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",150,150,210,31500,Delivered
+SO-24089,2,JC-SP-095-NBR,Spare rubber spider for jaw coupling size 95,4,4,180,720,Delivered
+SO-24089,3,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",4,4,1150,4600,Delivered
+SO-24089,4,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",1,1,36500,36500,Delivered
+SO-24090,1,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",23,23,690,15870,Delivered
+SO-24090,2,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",40,40,145,5800,Delivered
+SO-24090,3,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",10,10,2850,28500,Delivered
+SO-24093,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",20,20,157,3140,Delivered
+SO-24097,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",9,9,8112,73008,Delivered
+SO-24097,2,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",17,17,1574,26758,Delivered
+SO-24100,1,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",20,20,395,7900,Delivered
+SO-24100,2,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",20,20,136,2720,Delivered
+SO-24100,3,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",3,3,7943,23829,Delivered
+SO-24100,4,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",17,17,1542,26214,Delivered
+SO-24101,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",90,90,247,22230,Delivered
+SO-24101,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",180,180,133,23940,Delivered
+SO-24102,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",6,6,7943,47658,Delivered
+SO-24102,2,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",3,3,3243,9729,Delivered
+SO-24102,3,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",6,6,5734,34404,Delivered
+SO-24104,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",8,8,6100,48800,Delivered
+SO-24104,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",3,3,980,2940,Delivered
+SO-24104,3,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",8,8,1640,13120,Delivered
+SO-24107,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",160,0,247,39520,Cancelled
+SO-24107,2,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",70,0,157,10990,Cancelled
+SO-24107,3,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",3,0,23560,70680,Cancelled
+SO-24107,4,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",50,0,133,6650,Cancelled
+SO-24110,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",40,40,260,10400,Delivered
+SO-24111,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",8,8,8112,64896,Delivered
+SO-24111,2,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",17,17,1574,26758,Delivered
+SO-24111,3,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",40,40,139,5560,Delivered
+SO-24111,4,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",130,130,250,32500,Delivered
+SO-24113,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",1,1,6100,6100,Delivered
+SO-24113,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",5,5,8450,42250,Delivered
+SO-24118,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",19,19,2764,52516,Delivered
+SO-24118,2,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",19,19,407,7733,Delivered
+SO-24120,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",200,200,165,33000,Delivered
+SO-24120,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",130,130,140,18200,Delivered
+SO-24125,1,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",16,16,399,6384,Delivered
+SO-24125,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",5,0,2708,13540,"Back-ordered, dispatch 13 Nov 2026"
+SO-24125,3,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",9,0,5795,52155,"Back-ordered, dispatch 13 Nov 2026"
+SO-24128,1,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",22,22,690,15180,Delivered
+SO-24128,2,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",20,20,145,2900,Delivered
+SO-24131,1,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",5,5,3497,17485,Delivered
+SO-24131,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",2,2,7943,15886,Delivered
+SO-24132,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",120,120,210,25200,Delivered
+SO-24133,1,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",15,15,2708,40620,Delivered
+SO-24133,2,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",6,0,399,2394,"Back-ordered, dispatch 13 Nov 2026"
+SO-24134,1,FR40-FE-40,"Spare filter element, 40 micron, for 1/2 inch filter-regulator",17,17,420,7140,Delivered
+SO-24134,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",20,0,980,19600,"Back-ordered, dispatch 13 Nov 2026"
+SO-24135,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",7,7,1558,10906,Delivered
+SO-24135,2,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",1,1,3534,3534,Delivered
+SO-24136,1,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",17,17,931,15827,Delivered
+SO-24136,2,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",5,0,656,3280,"Back-ordered, dispatch 13 Nov 2026"
+SO-24137,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",180,180,247,44460,Delivered
+SO-24137,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",200,0,133,26600,"Back-ordered, dispatch 13 Nov 2026"
+SO-24137,3,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",20,0,157,3140,"Back-ordered, dispatch 13 Nov 2026"
+SO-24137,4,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",3,0,23560,70680,"Back-ordered, dispatch 13 Nov 2026"
+SO-24138,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",1,1,8112,8112,Delivered
+SO-24138,2,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",90,90,134,12060,Delivered
+SO-24138,3,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",120,120,202,24240,Delivered
+SO-24139,1,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",19,19,690,13110,Delivered
+SO-24139,2,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",13,13,1250,16250,Delivered
+SO-24139,3,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",18,18,980,17640,Delivered
+SO-24139,4,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",9,9,6100,54900,Delivered
+SO-24140,1,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",1,1,3346,3346,Delivered
+SO-24141,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",9,9,8112,73008,Delivered
+SO-24143,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",8,8,5795,46360,Delivered
+SO-24143,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",2,2,931,1862,Delivered
+SO-24144,1,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",2,2,1150,2300,Delivered
+SO-24144,2,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",90,90,165,14850,Delivered
+SO-24144,3,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",140,140,210,29400,Delivered
+SO-24144,4,JC-SP-095-NBR,Spare rubber spider for jaw coupling size 95,5,5,180,900,Delivered
+SO-24145,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",25,25,1640,41000,Delivered
+SO-24145,2,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",6,0,1250,7500,"Back-ordered, dispatch 13 Nov 2026"
+SO-24145,3,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",7,0,8450,59150,"Back-ordered, dispatch 13 Nov 2026"
+SO-24145,4,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",2,0,6100,12200,"Back-ordered, dispatch 13 Nov 2026"
+SO-24146,1,6305-2RS,"Sealed ball bearing, 25 mm bore, heavy series (25 x 62 x 17 mm)",120,120,260,31200,Delivered
+SO-24146,2,JC-SP-095-NBR,Spare rubber spider for jaw coupling size 95,9,0,180,1620,"Back-ordered, dispatch 13 Nov 2026"
+SO-24147,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",130,130,193,25090,Delivered
+SO-24148,1,HF-BSP-G12-JIC08,"Hydraulic adapter, 1/2 inch BSP male to JIC -08 male",40,40,145,5800,Delivered
+SO-24149,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",3,3,8450,25350,Delivered
+SO-24149,2,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",19,0,1640,31160,"Back-ordered, dispatch 13 Nov 2026"
+SO-24149,3,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",10,0,1250,12500,"Back-ordered, dispatch 13 Nov 2026"
+SO-24150,1,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",1,1,6100,6100,Delivered
+SO-24151,1,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",130,130,193,25090,Delivered
+SO-24151,2,GM-090-1.5-i20-M1,"Gear motor 1.5 kW, 72 rpm output, foot mounted",2,2,33580,67160,Delivered
+SO-24151,3,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",100,100,152,15200,Delivered
+SO-24152,1,FR40-G12-40,"Filter-regulator, 1/2 inch ports, 40 micron filter",4,4,3243,12972,In transit
+SO-24153,1,6204-ZZ,"Shielded ball bearing, 20 mm bore (20 x 47 x 14 mm)",80,80,140,11200,Delivered
+SO-24153,2,6205-2RS-C3,"Sealed ball bearing, 25 mm bore, C3 clearance (25 x 52 x 15 mm)",170,170,210,35700,Delivered
+SO-24153,3,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",22,22,980,21560,Delivered
+SO-24154,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",2,2,8112,16224,In transit
+SO-24154,2,PC15-SK-50,"Cylinder seal kit, standard rubber, for 50 mm bore",24,24,941,22584,In transit
+SO-24154,3,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",5,5,1200,6000,In transit
+SO-24155,1,SV-COIL-24D,"Spare solenoid valve coil, 24 V DC",12,12,690,8280,Delivered
+SO-24155,2,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",7,0,6100,42700,"Back-ordered, dispatch 13 Nov 2026"
+SO-24156,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",120,0,157,18840,Pending
+SO-24157,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",2,0,8028,16056,Pending
+SO-24157,2,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",4,0,3534,14136,Pending
+SO-24157,3,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",13,0,2708,35204,Pending
+SO-24158,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",20,0,1558,31160,Pending
+SO-24158,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",18,0,2708,48744,Pending
+SO-24158,3,PC15-50-100,"Pneumatic cylinder, 50 mm bore, 100 mm stroke",4,0,5795,23180,Pending
+SO-24159,1,FR40-G12-05,"Filter-regulator, 1/2 inch ports, 5 micron filter",1,0,3720,3720,Pending
+SO-24159,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",10,0,2850,28500,Pending
+SO-24160,1,PC15-SK-50-V,"Cylinder seal kit, high-temperature Viton, for 50 mm bore",10,0,1591,15910,Pending
+SO-24160,2,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",5,0,8196,40980,Pending
+SO-24160,3,PC15-SK-63,"Cylinder seal kit, standard rubber, for 63 mm bore",12,0,1212,14544,Pending
+SO-24117,1,PC15-63-200,"Pneumatic cylinder, 63 mm bore, 200 mm stroke",2,2,8028,16056,In transit
+SO-24117,2,SV52-S-24D,"5/2 solenoid valve, single coil, 24 V DC, 1/4 inch ports",4,4,2708,10832,In transit
+SO-24130,1,GM-071-0.75-i20-M1,"Gear motor 0.75 kW, 72 rpm output, foot mounted",1,0,24800,24800,"Awaiting assembly, dispatch 18 Nov 2026"
+SO-24130,2,JC-095,"Jaw coupling, size 95, for shafts up to 28 mm",4,4,1150,4600,Delivered
+SO-24142,1,6205-2RS,"Sealed ball bearing, 25 mm bore (25 x 52 x 15 mm)",50,0,165,8250,Pending
